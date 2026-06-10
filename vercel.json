@@ -4,9 +4,9 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/maqbool", "dest": "/maqbool.js" },
-    { "src": "/tufail", "dest": "/tufail.js" },
-    { "src": "/maqbool", "dest": "/maqbool.js" },
+    { "src": "/varis", "dest": "/varis.js" },
+    { "src": "/bilal", "dest": "/bilal.js" },
+    { "src": "/hamid", "dest": "/hamid.js" },
     { "src": "/jano", "dest": "/jano.js" },
     { "src": "/Sultan", "dest": "/Sultan.js" },
     { "src": "/fahad", "dest": "/fahad.js" },
