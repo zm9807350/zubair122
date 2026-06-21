@@ -7,10 +7,10 @@
     { "src": "/varis", "dest": "/varis.js" },
     { "src": "/bilal", "dest": "/bilal.js" },
     { "src": "/hamid", "dest": "/hamid.js" },
-    { "src": "/jano", "dest": "/jano.js" },
-    { "src": "/Sultan", "dest": "/Sultan.js" },
-    { "src": "/fahad", "dest": "/fahad.js" },
-    { "src": "/rajab", "dest": "/rajab.js" },
+    { "src": "/Aman", "dest": "/Aman.js" },
+    { "src": "/Salam", "dest": "/Salam.js" },
+    { "src": "/Aizaz", "dest": "/Aizaz.js" },
+    { "src": "/Jangeera", "dest": "/Jangeera.js" },
     { "src": "/faisal", "dest": "/faisal.js" }
   ]
 }
